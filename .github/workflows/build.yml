@@ -6,6 +6,6 @@ on:
       - trunk
 jobs:
   build:
-    uses: shopware/github-actions/.github/workflows/build-zip.yml@main
+    uses: haokeyingxiao/github-actions/.github/workflows/build-zip.yml@main
     with:
-      extensionName: SwagPlatformDemoData
+      extensionName: HkagPlatformDemoData
