@@ -17,7 +17,7 @@
         "label": {
             "de-DE": "Haoke 6 Demodaten",
             "en-GB": "Haoke 6 Demo data",
-            "zh-CN": "Haoke 6 Demo data"
+            "zh-CN": "演示数据"
         },
         "description": {
             "de-DE": "Demodaten Plugin für Shopware 6. Nicht in Produktiv-Umgebungen nutzen! Die Daten werden beim Aktivieren des Plugins importiert und überschreiben bestehende Daten.",
